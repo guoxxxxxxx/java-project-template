@@ -5,7 +5,7 @@
  * @Description:
  */
 
-package com.pipi.imageannotation.common;
+package com.pipi.template.common;
 
 import com.alibaba.fastjson2.JSON;
 import com.fasterxml.jackson.annotation.JsonIgnore;

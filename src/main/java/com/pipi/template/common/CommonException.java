@@ -5,7 +5,7 @@
  * @Description:
  */
 
-package com.pipi.imageannotation.common;
+package com.pipi.template.common;
 
 import lombok.Data;
 

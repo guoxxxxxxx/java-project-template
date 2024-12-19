@@ -1,13 +1,13 @@
-package com.pipi.imageannotation;
+package com.pipi.template;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ImageAnnotationServiceApplication {
+public class TemplateServiceApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(ImageAnnotationServiceApplication.class, args);
+        SpringApplication.run(TemplateServiceApplication.class, args);
     }
 
 }

@@ -5,10 +5,10 @@
  * @Description:
  */
 
-package com.pipi.imageannotation.config;
+package com.pipi.template.config;
 
-import com.pipi.imageannotation.common.CommonException;
-import com.pipi.imageannotation.common.CommonResult;
+import com.pipi.template.common.CommonException;
+import com.pipi.template.common.CommonResult;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

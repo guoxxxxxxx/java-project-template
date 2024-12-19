@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.pipi</groupId>
-    <artifactId>image-annotation-service</artifactId>
+    <artifactId>java-project-template</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>image-annotation-service</name>
-    <description>image-annotation-service</description>
+    <name>java-project-template</name>
+    <description>java-project-template</description>
     <url/>
     <licenses>
         <license/>

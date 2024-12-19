@@ -5,7 +5,7 @@
  * @Description:
  */
 
-package com.pipi.imageannotation.common;
+package com.pipi.template.common;
 
 
 import com.baomidou.mybatisplus.core.metadata.IPage;

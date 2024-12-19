@@ -5,10 +5,10 @@
  * @Description:
  */
 
-package com.pipi.imageannotation.aop.aspect;
+package com.pipi.template.aop.aspect;
 
 import com.alibaba.fastjson2.JSON;
-import com.pipi.imageannotation.aop.annotation.Logger;
+import com.pipi.template.aop.annotation.Logger;
 import jakarta.servlet.http.HttpServletRequest;
 import lombok.extern.slf4j.Slf4j;
 import org.aspectj.lang.JoinPoint;
@@ -26,7 +26,7 @@ import java.lang.reflect.Method;
 @Component
 public class LogAspect {
 
-    @Pointcut("@annotation(com.pipi.imageannotation.aop.annotation.Logger)")
+    @Pointcut("@annotation(com.pipi.template.aop.annotation.Logger)")
     public void pointCut(){}
 
     @Around("pointCut()")

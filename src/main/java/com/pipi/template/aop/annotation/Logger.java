@@ -5,7 +5,7 @@
  * @Description:
  */
 
-package com.pipi.imageannotation.aop.annotation;
+package com.pipi.template.aop.annotation;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;
